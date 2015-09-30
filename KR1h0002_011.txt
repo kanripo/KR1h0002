@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 孟子
-#+DATE: 2015-09-23 09:41:05
+#+DATE: 2015-09-10 22:50:19.806549
+#+PROPERTY: ID KR1h0002
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 11
+#+PROPERTY: FILE SB01n0008-011孟子-卷第十一.
 <pb:KR1h0002_SBCK_011-1a>¶
 孟子卷第十一　趙氏注¶
 吿子章句上(吿子者吿姓也子男子之通稱也名/不害兼治儒墨之道者甞學於孟子)¶
@@ -303,4 +307,3 @@
 (規所以爲圜也矩所以爲方也誨敎也敎人必須規矩/學者以仁義爲法式亦猶大匠以規矩者也/章指言)¶
 (事各有本道有所隆彀張規矩以喻爲仁/學不爲仁猶是二敎失其法而行之也)¶
 孟子卷第十一¶
-

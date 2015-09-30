@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 孟子
-#+DATE: 2015-09-23 09:41:05
+#+DATE: 2015-09-10 22:50:19.940650
+#+PROPERTY: ID KR1h0002
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 14
+#+PROPERTY: FILE SB01n0008-014孟子-卷第十四.
 <pb:KR1h0002_SBCK_014-1a>¶
 孟子卷第十四　趙氏注¶
 盡心章句下¶
@@ -346,4 +350,3 @@
 (四百八十六章章次大小各當其事亦無所法也蓋所/以佐明六藝之文義崇宣先聖之指務王制拂邪之隱)¶
 (括立德立言之程式也洋/洋浩浩具存乎斯文矣)¶
 <pb:KR1h0002_SBCK_014-20a>¶
-

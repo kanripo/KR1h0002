@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 孟子
-#+DATE: 2015-09-23 09:41:05
+#+DATE: 2015-09-10 22:50:19.433571
+#+PROPERTY: ID KR1h0002
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 2
+#+PROPERTY: FILE SB01n0008-002孟子-卷第二.
 <pb:KR1h0002_SBCK_002-1a>¶
 孟子卷第二　趙氏注¶
 梁惠王章句下(正二十五年二月)¶
@@ -340,4 +344,3 @@
 (魯侯兾得行道天欲使濟斯民也故曰吾之不遭遇魯/侯乃天所爲也臧倉小子何能使我不遇哉/章指言)¶
 (讒邪搆賢賢者/歸天不尤人也)¶
 孟子卷第二¶
-

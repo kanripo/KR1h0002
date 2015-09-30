@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 孟子
-#+DATE: 2015-09-23 09:41:05
+#+DATE: 2015-09-10 22:50:19.557842
+#+PROPERTY: ID KR1h0002
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 5
+#+PROPERTY: FILE SB01n0008-005孟子-卷第五.
 <pb:KR1h0002_SBCK_005-1a>¶
 孟子卷第五　趙氏注¶
 滕文公章句上(滕文公者滕國名文謚也公者國/人尊君之稱也文公尊敬孟子問)¶
@@ -308,4 +312,3 @@
 (子憮然者猶悵然也爲閒者有頃之閒也命之猶言受/命敎矣/章指言聖人縁情制禮奉終墨子&KR0007;同質而)¶
 (違中以直正枉憮/然改容蓋其理也)¶
 孟子卷第五¶
-

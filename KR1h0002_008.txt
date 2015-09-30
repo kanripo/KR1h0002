@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 孟子
-#+DATE: 2015-09-23 09:41:05
+#+DATE: 2015-09-10 22:50:19.681177
+#+PROPERTY: ID KR1h0002
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 8
+#+PROPERTY: FILE SB01n0008-008孟子-卷第八.
 <pb:KR1h0002_SBCK_008-1a>¶
 孟子卷第八　趙氏注¶
 離婁章句下¶
@@ -289,4 +293,3 @@
 (觀之與正道乖妻妾猶羞況/於國人著以爲戒恥之甚焉)¶
 孟子卷第八¶
 <pb:KR1h0002_SBCK_008-17a>¶
-

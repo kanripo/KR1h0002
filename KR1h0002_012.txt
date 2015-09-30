@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 孟子
-#+DATE: 2015-09-23 09:41:05
+#+DATE: 2015-09-10 22:50:19.848458
+#+PROPERTY: ID KR1h0002
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 12
+#+PROPERTY: FILE SB01n0008-012孟子-卷第十二.
 <pb:KR1h0002_SBCK_012-1a>¶
 孟子卷第十二¶
 吿子章句下　趙氏注¶
@@ -308,4 +312,3 @@
 (不敎誨之其人感此退自脩學而爲仁義是亦我敎誨/之一道也/章指言學而見賤恥之大者激而厲之能)¶
 (者以改敎誨之方或折或/引同歸殊塗成之而巳)¶
 孟子卷第十二¶
-

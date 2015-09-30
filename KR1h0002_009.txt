@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 孟子
-#+DATE: 2015-09-23 09:41:05
+#+DATE: 2015-09-10 22:50:19.720584
+#+PROPERTY: ID KR1h0002
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 9
+#+PROPERTY: FILE SB01n0008-009孟子-卷第九.
 <pb:KR1h0002_SBCK_009-1a>¶
 孟子卷第九　趙氏注¶
 萬章章句上(萬章者萬姓章名孟子弟子也萬章/問舜孝猶論語顔淵問仁因以題篇)¶
@@ -297,4 +301,3 @@
 孟子卷第九¶
 <pb:KR1h0002_SBCK_009-17b>¶
 <pb:KR1h0002_SBCK_009-17b>¶
-

@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 孟子
-#+DATE: 2015-09-23 09:41:05
+#+DATE: 2015-09-10 22:50:19.475919
+#+PROPERTY: ID KR1h0002
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 3
+#+PROPERTY: FILE SB01n0008-003孟子-卷第三.
 <pb:KR1h0002_SBCK_003-1a>¶
 孟子卷第三　趙氏注¶
 公孫丑章句上(公孫丑者公孫姓丑名孟子弟子/也丑有政事之才問管晏之功猶)¶
@@ -326,4 +330,3 @@
 (彈正之心言其大不恭敬也聖人之道不取於此故曰/君子不由也先言二人之行孟子乃平之/章指言伯)¶
 (夷柳下惠古之大賢猶有所闕介者必偏/中和爲貴純聖能終君子所由堯舜是尊)¶
 孟子卷第三¶
-

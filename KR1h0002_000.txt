@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 孟子
-#+DATE: 2015-09-23 09:41:05
+#+DATE: 2015-09-10 22:50:19.356425
+#+PROPERTY: ID KR1h0002
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 0
+#+PROPERTY: FILE SB01n0008-000孟子-題辭.
 <pb:KR1h0002_SBCK_000-1a>¶
 孟子題辭　趙氏¶
 孟子題辭者所以題號孟子之書本末指¶
@@ -87,4 +91,3 @@
 新學可以寤疑辯惑愚亦未能審於是非¶
 後之明者見其違闕儻改而正諸不亦宜¶
 乎¶
-

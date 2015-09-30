@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 孟子
-#+DATE: 2015-09-23 09:41:05
+#+DATE: 2015-09-10 22:50:19.642363
+#+PROPERTY: ID KR1h0002
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 7
+#+PROPERTY: FILE SB01n0008-007孟子-卷第七.
 <pb:KR1h0002_SBCK_007-1a>¶
 孟子卷第七　趙氏注¶
 離婁章句上(離婁者古之明目者蓋以爲黃帝時/人也黃帝亡其&KR0007;珠使離朱索之離)¶
@@ -303,4 +307,3 @@
 (其孝道而頑父致樂使天下化之爲父子之道者定也/章指言以天下之貴富爲不若得意於親故能懐協頑)¶
 (嚚厎豫而欣天下化之父子加親故/稱盛德者必百丗祀無與比崇也)¶
 孟子卷第七¶
-

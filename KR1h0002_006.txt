@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 孟子
-#+DATE: 2015-09-23 09:41:05
+#+DATE: 2015-09-10 22:50:19.601704
+#+PROPERTY: ID KR1h0002
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 6
+#+PROPERTY: FILE SB01n0008-006孟子-卷第六.
 <pb:KR1h0002_SBCK_006-1a>¶
 孟子卷第六　趙氏注¶
 滕文公章句下¶
@@ -288,4 +292,3 @@
 (而居於於陵人所築室也是尚能充人&KR0011;乎如蚓之性/然後可以充其操也/章指言聖人之道親親尚和志)¶
 (士之操耿介特立可以激濁不可常/法是以孟子喻以丘蚓比諸巨擘也)¶
 孟子卷第六¶
-

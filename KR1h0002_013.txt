@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 孟子
-#+DATE: 2015-09-23 09:41:05
+#+DATE: 2015-09-10 22:50:19.895671
+#+PROPERTY: ID KR1h0002
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 13
+#+PROPERTY: FILE SB01n0008-013孟子-卷第十三.
 <pb:KR1h0002_SBCK_013-1a>¶
 孟子卷第十三　趙氏注¶
 盡心章句上(盡心者人之有心爲精氣主思慮可/否然後行之猶人法天天之執持維)¶
@@ -342,4 +346,3 @@
 (飯長歠不敬之大者齒決小過耳言丗之先務舍大譏/小&KR0002;此之&KR0011;也/章指言振裘持領正羅維綱君子百)¶
 (行先務其崇是以堯舜親/賢大化以隆道爲要也)¶
 孟子卷第十三¶
-

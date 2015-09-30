@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 孟子
-#+DATE: 2015-09-23 09:41:05
+#+DATE: 2015-09-10 22:50:19.764151
+#+PROPERTY: ID KR1h0002
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 10
+#+PROPERTY: FILE SB01n0008-010孟子-卷第十.
 <pb:KR1h0002_SBCK_010-1a>¶
 孟子卷第十　趙氏注¶
 萬章章句下¶
@@ -281,4 +285,3 @@
 (章指言國須賢臣必擇忠良親近貴戚或遭殃/禍伊發有莘爲殷興道故云成湯立賢無方也)¶
 孟子卷第十¶
 <pb:KR1h0002_SBCK_010-16b>¶
-

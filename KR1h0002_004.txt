@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 孟子
-#+DATE: 2015-09-23 09:41:05
+#+DATE: 2015-09-10 22:50:19.518006
+#+PROPERTY: ID KR1h0002
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 4
+#+PROPERTY: FILE SB01n0008-004孟子-卷第四.
 <pb:KR1h0002_SBCK_004-1a>¶
 孟子卷第四　趙氏注¶
 公孫丑章句下¶
@@ -291,4 +295,3 @@
 請久於齊非我志也(言我本志欲速去繼見之/後有師旅之命不得請去)¶
 (故使我久而不受禄耳久非我本志也/章指言禄/以食功志以率事無其事而食其禄君子不由也)︻(卷/末)¶
 <pb:KR1h0002_SBCK_004-17a>¶
-

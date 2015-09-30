@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 孟子
-#+DATE: 2015-09-23 09:41:05
+#+DATE: 2015-09-10 22:50:19.389171
+#+PROPERTY: ID KR1h0002
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 1
+#+PROPERTY: FILE SB01n0008-001孟子-卷第一.
 <pb:KR1h0002_SBCK_001-1a>¶
 孟子卷第一　趙氏注¶
 梁惠王章句上(梁惠王者魏惠王也魏國名惠謚/也王號也時天下有七王皆&KR0427;號)¶
@@ -276,4 +280,3 @@
 <pb:KR1h0002_SBCK_001-17a>¶
 ¶
 孟子卷第一¶
-
